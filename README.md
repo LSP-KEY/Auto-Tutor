@@ -87,6 +87,8 @@ http://localhost:3000/tutor_email_system.html
 - 黄士洪  南京农业大学
 - [田雨萱 天津大学](https://github.com/Klingsor-tyx)
 - [王彬宇 南京大学](https://github.com/geekittime)
+- 徐泽远 福州大学
+- 刘芮彤 北京大学
 - 更新中...
 
 ## SMTP邮箱配置（以下非开发者可以不用看，直接在前文启动web中点点点）
