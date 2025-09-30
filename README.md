@@ -87,7 +87,7 @@ http://localhost:3000/tutor_email_system.html
 - [汤家福 南京大学](https://github.com/kevin236-max)
 - [赵俊杰 上海交通大学](https://k5urum1z3.github.io/)
 - 黄士洪  南京农业大学
-- [田雨萱 天津大学](https://github.com/Klingsor-tyx)
+- [田雨萱 中科院自动化所](https://github.com/Klingsor-tyx)
 - 王彬宇 南京大学
 - 徐泽远 福州大学
 - 刘芮彤 北京大学
