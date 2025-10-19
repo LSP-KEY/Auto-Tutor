@@ -79,7 +79,7 @@ http://localhost:3000/tutor_email_system.html
 我们团队来自于北京大学,清华大学,中国科学院大学自动化所,中国科学技术大学,南京大学,浙江大学,湖南大学,中南财经政法大学.
 
 他们分别是:
-- [李展利 中南财经政法大学](https://zhanli-li.github.io/)
+- [李展利 中南财经政法大学 (Leader)](https://zhanli-li.github.io/)
 - [刘朝阳 浙江大学](https://github.com/NanaseAsahi/)
 - [杨鹏晖 清华大学](https://github.com/yph22/)
 - [华英凡 中国科学技术大学](https://sui1234bian.github.io/)
